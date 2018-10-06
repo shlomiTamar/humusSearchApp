@@ -1,0 +1,88 @@
+{
+    "places": [
+      {
+        "name": "Humus Caspi",
+        "description": "Great Humus",
+        "location": "Rom Center",
+        "open": "yes",
+        "link": "http://kaspishuk.co.il/" 
+      },
+      {
+        "name": "Humus Eliahu",
+        "description": "Great Humus",
+        "location": "Bareket St 9, Petah Tikva",
+        "open": "yes",
+        "link": "http://www.humus-eli-yahoo.com/" 
+      },
+      {
+        "name": "Humus Gingi",
+        "description": "Great Humus",
+        "location": "Alexander Yannai St 14, Petah Tikva",
+        "open": "no",
+        "link": "http://kaspishuk.co.il/"
+      },
+      {
+        "name": "Humus HaNevi'im",
+        "description": "Great Humus",
+        "location": "HaNevi'im St 31, Petah Tikva",
+        "open": "yes",
+        "link": "https://www.facebook.com/haneviim/" 
+      },
+      {
+        "name": "Achla Resturant",
+        "description": "Great Humus",
+        "location": "Avshalom Gissin St, Petah Tikva",
+        "open": "no",
+        "link": "http://ahlha.rest.co.il/"
+      },
+      {
+        "name": "Achla Resturant1",
+        "description": "Great Humus",
+        "location": "Avshalom Gissin St, Petah Tikva",
+        "open": "yes",
+        "link": "http://ahlha.rest.co.il/"
+      },
+      {
+        "name": "Achla Resturant2",
+        "description": "Great Humus",
+        "location": "Avshalom Gissin St, Petah Tikva",
+        "open": "yes",
+        "link": "http://ahlha.rest.co.il/"
+      },
+      {
+        "name": "Achla Resturant3",
+        "description": "Great Humus",
+        "location": "Avshalom Gissin St, Petah Tikva",
+        "open": "yes",
+        "link": "http://ahlha.rest.co.il/"
+      },
+      {
+        "name": "Achla Resturant4",
+        "description": "Great Humus",
+        "location": "Avshalom Gissin St, Petah Tikva",
+        "open": "yes",
+        "link": "http://ahlha.rest.co.il/"
+      },
+      {
+        "name": "Achla Resturant5",
+        "description": "Great Humus",
+        "location": "Avshalom Gissin St, Petah Tikva",
+        "open": "yes",
+        "link": "http://ahlha.rest.co.il/"
+      },
+      {
+        "name": "Achla Resturant6",
+        "description": "Great Humus",
+        "location": "Avshalom Gissin St, Petah Tikva",
+        "open": "yes",
+        "link": "http://ahlha.rest.co.il/"
+      },
+      {
+        "name": "Achla Resturant7",
+        "description": "Great Humus",
+        "location": "Avshalom Gissin St, Petah Tikva",
+        "open": "yes",
+        "link": "http://ahlha.rest.co.il/"
+      }
+    ]
+  }

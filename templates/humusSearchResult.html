@@ -1,0 +1,12 @@
+<div class="humusRes" >
+    <div style="padding-right:20px;padding-bottom:20px;padding-left:20px">
+        <h2>{{resData.name}}</h2>
+        <div class="resultRowContainer">{{resData.description}}</div>
+        <div class="resultRowContainer"><b>Location:</b> {{resData.location}}</div>
+        <div class="resultRowOpenContainer">
+            <div class="openLabel"><b>Open:</b> </div>
+            <div class="openLabelData" class="resultRowContainer" ng-class="{'open': resData.open == 'yes', 'close': resData.open == 'no'}">{{resData.open}}</div>
+        </div>
+        <a class="resultRowContainer link" href="" ng-click="clickLink()"><b>{{resData.link}}</b></a>
+    </div>
+</div>

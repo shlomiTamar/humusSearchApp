@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <script src="http://code.angularjs.org/1.2.13/angular.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.8/angular-ui-router.min.js"></script>
+        <link rel="stylesheet" href="./css/styles.css" />
+        <link rel="stylesheet" href="./css/humusResultStyles.css" />        
+        <script src="./app.js"></script>
+        <script src="services/humusService.js"></script>
+        <script src="controllers/humusSearchCtrl.js"></script>
+        <script src="directives/humusSearchResult.js"></script>        
+    </head>
+
+<!-- first need to run a local server
+http-server -o
+then need to open the url:
+http://localhost:8080/ -->
+
+    <body ng-app="humusSearchApp">
+
+        <div ui-view></div>
+
+    </body>
+
+
+
+
+
+</html>

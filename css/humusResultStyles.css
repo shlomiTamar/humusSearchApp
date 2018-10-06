@@ -1,0 +1,39 @@
+.humusRes{
+    background-color: lightcyan;
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    box-shadow: 5px 4px #888888;
+    width: 99%;
+}
+.resultRowContainer{
+    padding: 5px;
+}
+.resultRowContainer.link{
+    color: blue;
+}
+
+.resultRowOpenContainer{
+    width: 100%;
+    display: inline-block;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+.openLabel{
+    position:relative;
+    width:55px;
+    float:left;
+}
+.openLabelData{
+    width: 140px;
+    position: relative;
+    padding-top: 0;
+
+}
+.open{
+    font-weight: bold;
+    color: green
+}
+.close{
+    font-weight: bold;
+    color: red
+}
